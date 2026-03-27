@@ -1,4 +1,4 @@
-\# 🎓 University FAQ Chatbot (RAG-based)
+\#  University FAQ Chatbot (RAG-based)
 
 
 
@@ -14,7 +14,7 @@ The chatbot answers user queries about university details such as courses, fees,
 
 
 
-\## 🚀 Features
+\##  Features
 
 
 
@@ -38,7 +38,7 @@ The chatbot answers user queries about university details such as courses, fees,
 
 
 
-\## 🧠 How it works
+\##  How it works
 
 
 
@@ -56,11 +56,11 @@ The chatbot answers user queries about university details such as courses, fees,
 
 
 
-\## 🖥️ Demo
+\##  Demo
 
 
 
-Deployed app: (add your Streamlit link here after deployment)
+Deployed app: https://faq--chatbot.streamlit.app/
 
 
 
@@ -68,13 +68,13 @@ Deployed app: (add your Streamlit link here after deployment)
 
 
 
-\## ⚙️ Installation (Local)
+\##  Installation (Local)
 
 
 
 ```bash
 
-git clone <your-repo-link>
+git clone https://github.com/prathapinimitable-commits/faq-chatbot
 
 cd faq-chatbot
 
@@ -90,7 +90,7 @@ streamlit run app.py
 
 
 
-\## 🤖 Optional: Enable Local AI (Ollama)
+\##  Optional: Enable Local AI (Ollama)
 
 
 
@@ -124,7 +124,7 @@ streamlit run app.py
 
 
 
-\## 📦 Tech Stack
+\##  Tech Stack
 
 
 
@@ -144,7 +144,7 @@ streamlit run app.py
 
 
 
-\## 🎯 Use Case
+\##  Use Case
 
 
 

@@ -28,9 +28,9 @@ The chatbot answers user queries about university details such as courses, fees,
 
 
 
-&#x20; \* Demo mode (no external dependencies)
+&#x20; \* Demo mode (no external dependencies - only FAISS retrieval)
 
-&#x20; \* Local LLM mode using Ollama (optional, need to install Ollama)
+&#x20; \* Local LLM mode using Ollama (optional full AI - need to install Ollama locally)
 
 
 

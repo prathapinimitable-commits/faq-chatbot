@@ -62,6 +62,13 @@ The chatbot answers user queries about university details such as courses, fees,
 
 Deployed app: https://faq--chatbot.streamlit.app/
 
+###  Try these questions:
+- What courses are available?
+- What is the fee for B.Tech?
+- What is the duration of MBA?
+- Do you provide hostel facilities?
+- Are scholarships available?
+
 
 
 \---

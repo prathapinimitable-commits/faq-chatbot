@@ -66,7 +66,7 @@ Deployed app: https://faq--chatbot.streamlit.app/
 - What courses are available?
 - What is the fee for B.Tech?
 - What is the duration of MBA?
-- Do you provide hostel facilities?
+- Is hostel accommodation available??
 - Are scholarships available?
 
 

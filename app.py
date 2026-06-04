@@ -62,6 +62,22 @@ if USE_LOCAL_LLM:
 # STREAMLIT UI
 # -----------------------------
 st.title("University FAQ Chatbot")
+
+# Sidebar with sample questions
+with st.sidebar:
+    st.header("Example Questions")
+    st.markdown("""
+**Try these questions:**
+
+- What courses are available?
+- What is the fee for B.Tech?
+- What is the duration of MBA?
+- Is hostel accommodation available?
+- Are scholarships available?
+
+For AI response, install Ollama-Llama3 locally as mentioned in README.md file
+""")
+
 #st.write("DEBUG:", USE_LOCAL_LLM, ollama_available)  to check if LLM and ollama works
 
 # Initialize chat history

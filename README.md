@@ -81,7 +81,7 @@ Deployed app: https://faq--chatbot.streamlit.app/
 
 ```bash
 
-git clone https://github.com/prathapinimitable-commits/faq-chatbot
+git clone https://github.com/prathapinimitable-commits/faq-chatbot    [It may take 2 mins to load the page & resources while trying for first time]
 
 cd faq-chatbot
 

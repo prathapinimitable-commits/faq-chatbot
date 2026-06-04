@@ -60,7 +60,7 @@ The chatbot answers user queries about university details such as courses, fees,
 
 
 
-Deployed app: https://faq--chatbot.streamlit.app/
+Deployed app: https://faq--chatbot.streamlit.app/      [It may take 2 mins to load the page & resources while trying for first time]
 
 ###  Try these questions:
 - What courses are available?
@@ -81,7 +81,7 @@ Deployed app: https://faq--chatbot.streamlit.app/
 
 ```bash
 
-git clone https://github.com/prathapinimitable-commits/faq-chatbot    [It may take 2 mins to load the page & resources while trying for first time]
+git clone https://github.com/prathapinimitable-commits/faq-chatbot
 
 cd faq-chatbot
 

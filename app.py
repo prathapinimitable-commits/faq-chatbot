@@ -75,7 +75,7 @@ with st.sidebar:
 - Is hostel accommodation available?
 - Are scholarships available?
 
-For AI response, install Ollama-Llama3 locally as mentioned in README.md file
+*** For AI response, install Ollama-Llama3 locally as mentioned in README.md file
 """)
 
 #st.write("DEBUG:", USE_LOCAL_LLM, ollama_available)  to check if LLM and ollama works
